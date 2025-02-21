@@ -166,8 +166,8 @@
 .sec1img video {
     width: 65%;
     position: absolute;
-    top: 78px;
-    right: 162px;
+    top: 72px;
+    right: 150px;
     z-index: 9;
 }
 .sec1img img:hover{
